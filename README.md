@@ -2,7 +2,7 @@
 
 **https://dinosaurmod.github.io/editor.html?fps=60&clones=Infinity&offscreen&limitless&nooffscreen&size=640x360**
 ***
-# ***TUTORIAL***
+# ***INSTALLATION TUTORIAL***
 ## **Click the file button**
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9062aa4b-c9f4-4111-8d54-1610565ae635" />
 
@@ -20,9 +20,10 @@
 
 **Basic game mechanics and other things can be found in the wiki**
 
-https://github.com/OllyMonster/Untitled-Upgrade-Tree.wiki.git
+**https://github.com/OllyMonster/Untitled-Upgrade-Tree.wiki.git**
 
 ***
 
 **If you want to mod the game then information about that can be found in the wiki**
 
+**https://github.com/OllyMonster/Untitled-Upgrade-Tree/wiki/Modding**
