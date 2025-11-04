@@ -18,5 +18,11 @@
 
 # ***EXTRA INFO***
 
-Basic game mechanics and other things can be found in the wiki
-WIKI
+**Basic game mechanics and other things can be found in the wiki**
+
+https://github.com/OllyMonster/Untitled-Upgrade-Tree.wiki.git
+
+***
+
+**If you want to mod the game then information about that can be found in the wiki**
+
