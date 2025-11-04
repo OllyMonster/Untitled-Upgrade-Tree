@@ -19,3 +19,4 @@
 # ***EXTRA INFO***
 
 Basic game mechanics and other things can be found in the wiki
+WIKI
