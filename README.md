@@ -20,7 +20,7 @@
 
 **Basic game mechanics and other things can be found in the wiki**
 
-**https://github.com/OllyMonster/Untitled-Upgrade-Tree.wiki.git**
+**https://github.com/OllyMonster/Untitled-Upgrade-Tree/wiki/Game-mechanics**
 
 ***
 
